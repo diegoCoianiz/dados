@@ -33,3 +33,9 @@ ganás el  62.050000000000004 % de las veces
 
 >10000 rondas con 18 dados
 ganás el  59.9 % de las veces
+
+y otra cosa increbile. Sí continuás agregando opciones a la ecuación pasa lo siguiente: luego de la ronda número 9, correspondiente a una tirada de 54 dados donde necesitas 9 seis para ganar y donde la chancde de victoria es del 55%, en adelante todas las rondas pasan a mantener ese numero practicamente constante.
+
+a partir de la ronda numero 21, correspondiente a una tirada de 126 dados donde necesitas 21 seis para ganar y donde la chancde de victoria es del 53.5%, en adelante el numero practicamente se estanca al punto de podrías continuar disparando tiradas durante 100 rondas (esta ultima correspondiente a una tirada de 600 dados donde necesitas 100 seis para ganar) y aún así el valor se mantendría pracicamente intacto entre un 52% o 53%.
+
+No es increible?
